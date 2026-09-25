@@ -26,7 +26,7 @@
 
 
 
-\### 1️⃣ 线性代数基础（工具层）
+\### 1️⃣ 线性代数基础（工具层） -> linear_algebra.ipynb
 
 \*\*核心知识点\*\*
 
@@ -44,7 +44,7 @@
 
 
 
-\### 2️⃣ 线性回归（回归任务，深度学习训练范式起源）
+\### 2️⃣ 线性回归（回归任务，深度学习训练范式起源） -> linear_regression.ipynb
 
 \*\*核心知识点\*\*
 
@@ -66,7 +66,7 @@
 
 
 
-\### 3️⃣ Softmax 回归（多分类，GPT输出头的原型）
+\### 3️⃣ Softmax 回归（多分类，GPT输出头的原型） -> softmax_regression.ipynb
 
 \*\*核心知识点\*\*
 
@@ -84,7 +84,7 @@ logits、softmax、交叉熵损失；`F.cross\\\_entropy` 的行为；训练不�
 
 
 
-\### 4️⃣ MLP 多层感知机（引入非线性）
+\### 4️⃣ MLP 多层感知机（引入非线性） -> Multi-Layer_Perception.ipynb
 
 \*\*核心知识点\*\*
 
@@ -102,7 +102,7 @@ logits、softmax、交叉熵损失；`F.cross\\\_entropy` 的行为；训练不�
 
 
 
-\### 5️⃣ NLP 自回归语言建模（搞懂GPT的任务是什么）
+\### 5️⃣ NLP 自回归语言建模（搞懂GPT的任务是什么） -> Natural_Language_Processing.ipynb
 
 \*\*核心知识点\*\*
 
@@ -120,7 +120,7 @@ token / token id；词表 vocab；输入与标签错位；自回归：给定上�
 
 
 
-\### 6️⃣ 因果多头自注意力 CausalSelfAttention
+\### 6️⃣ 因果多头自注意力 CausalSelfAttention -> Multi-Head_Self-Attention.ipynb
 
 \*\*核心知识点\*\*
 
@@ -138,7 +138,7 @@ Q K V 的含义；缩放点积注意力；因果下三角mask；多头拆分；`
 
 
 
-\### 7️⃣ Transformer Decoder Block
+\### 7️⃣ Transformer Decoder Block -> Transformer.ipynb
 
 \*\*核心知识点\*\*
 
@@ -156,7 +156,7 @@ Pre‑Norm（前置层归一化）；残差连接 `x = x + F(x)`；LayerNorm；B
 
 
 
-\### 8️⃣ nanoGPT GPT主类（model.py完整通读）
+\### 8️⃣ nanoGPT GPT主类（model.py完整通读） -> nanoGPT.ipynb
 
 \*\*核心知识点\*\*
 
